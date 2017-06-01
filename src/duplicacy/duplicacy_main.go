@@ -17,7 +17,7 @@ import (
 
     "github.com/gilbertchen/cli"
 
-    "github.com/gilbertchen/duplicacy/src"
+    "github.com/georgyo/duplicacy-cli/src"
 )
 
 const (
